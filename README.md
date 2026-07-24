@@ -34,6 +34,6 @@ Visualization: Power BI (based on dashboard styling)
 Key Insights:
 Cooking Essentials, Munchies, and Chocolates & Candies are the top-stocked and top-selling categories.
 
-screenshot/Demos show the dashboard link:
+screenshot/Demos show the dashboard link:https://github.com/manikantachennupalli-wq/ZEPTO-Analysis-Dashboard/blob/main/zepto%20data%20analyst%20dash%20board.png
 
-Dataset link:
+Dataset link:https://docs.google.com/spreadsheets/d/1M248nkSQNLDnWlCqmuBVYZ-MRW5adVfw/edit?usp=sharing&ouid=107779262236419205668&rtpof=true&sd=true
