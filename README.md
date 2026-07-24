@@ -34,4 +34,6 @@ Visualization: Power BI (based on dashboard styling)
 Key Insights:
 Cooking Essentials, Munchies, and Chocolates & Candies are the top-stocked and top-selling categories.
 
+screenshot/Demos show the dashboard link:
 
+Dataset link:
