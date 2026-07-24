@@ -1,3 +1,9 @@
+
+Project Overview:
+This project analyzes product-level data from Zepto, a quick-commerce grocery delivery platform, to uncover insights around revenue, pricing, discounts, stock availability, and category-wise performance. The analysis is visualized through an interactive Power BI/Tableau-style dashboard.
+Out-of-stock issues are concentrated in the same high-volume categories, suggesting demand-supply gaps.
+Chocolates & Candies and Ice Cream & Desserts generate the highest revenue despite not always having the highest product count
+
 Header — "ZEPTO Analysis Dashboard": Title banner with Zepto branding, sets the context for the report.
 
 KPI Cards (Top Row):
@@ -28,7 +34,4 @@ Visualization: Power BI (based on dashboard styling)
 Key Insights:
 Cooking Essentials, Munchies, and Chocolates & Candies are the top-stocked and top-selling categories.
 
-Project Overview:
-This project analyzes product-level data from Zepto, a quick-commerce grocery delivery platform, to uncover insights around revenue, pricing, discounts, stock availability, and category-wise performance. The analysis is visualized through an interactive Power BI/Tableau-style dashboard.
-Out-of-stock issues are concentrated in the same high-volume categories, suggesting demand-supply gaps.
-Chocolates & Candies and Ice Cream & Desserts generate the highest revenue despite not always having the highest product count
+
